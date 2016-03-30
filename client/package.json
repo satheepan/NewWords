@@ -4,7 +4,7 @@
   "description": "Client Example",
   "main": "index.js",
   "dependencies": {
-    "angular": "^1.5.2"
+    "angular": "^1.5.3"
   },
   "devDependencies": {},
   "scripts": {
